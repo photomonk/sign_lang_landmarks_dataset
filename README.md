@@ -24,7 +24,8 @@ Each sample is stored as a NumPy file.
     ...
     [x21, y21, z21]
 ]
+```
 
-Raw source :
-aphabets:https://youtu.be/_YDrZ8d5SRk?si=eNAzCNPCxO5mXCBJ
-words:https://youtu.be/VPEnQ-k_Fbg?si=Erjai9NN7rzBP9QF
+## Raw source :
+***aphabets***:https://youtu.be/_YDrZ8d5SRk?si=eNAzCNPCxO5mXCBJ
+***words***:https://youtu.be/VPEnQ-k_Fbg?si=Erjai9NN7rzBP9QF
