@@ -27,6 +27,6 @@ Each sample is stored as a NumPy file.
 ```
 
 ## Raw source :
-***aphabets***:https://youtu.be/_YDrZ8d5SRk?si=eNAzCNPCxO5mXCBJ
-***words***:https://youtu.be/VPEnQ-k_Fbg?si=Erjai9NN7rzBP9QF
-***chunks***:https://www.kaggle.com/datasets/photogsm/sign-language-dataset
+- ***aphabets***:https://youtu.be/_YDrZ8d5SRk?si=eNAzCNPCxO5mXCBJ
+- ***words***:https://youtu.be/VPEnQ-k_Fbg?si=Erjai9NN7rzBP9QF
+- ***chunks***https://www.kaggle.com/datasets/photogsm/sign-lannguage-dataset
